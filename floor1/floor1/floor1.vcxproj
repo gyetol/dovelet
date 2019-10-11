@@ -150,6 +150,7 @@
     </ClCompile>
     <ClCompile Include="1-4_op.cpp" />
     <ClCompile Include="1-5_triangle.cpp" />
+    <ClCompile Include="1-6_average.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
