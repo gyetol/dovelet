@@ -45,5 +45,8 @@
     <ClCompile Include="1-10_sec(open).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1-11_three.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
