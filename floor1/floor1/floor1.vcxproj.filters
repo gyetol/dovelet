@@ -69,5 +69,8 @@
     <ClCompile Include="1-18_coci_faktor.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1-19_coci_slatkisi.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
