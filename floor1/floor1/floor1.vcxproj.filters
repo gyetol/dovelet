@@ -75,5 +75,8 @@
     <ClCompile Include="1-20_butter.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1-21_slant.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
