@@ -81,5 +81,8 @@
     <ClCompile Include="1-22_maxandmin.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1-23_angle(open).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
