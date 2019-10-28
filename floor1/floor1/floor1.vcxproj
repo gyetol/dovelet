@@ -180,6 +180,7 @@
     </ClCompile>
     <ClCompile Include="1-22_maxandmin.cpp" />
     <ClCompile Include="1-23_angle(open).cpp" />
+    <ClCompile Include="1-24_SpotofLight.cpp" />
     <ClCompile Include="1-2_m2s.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
